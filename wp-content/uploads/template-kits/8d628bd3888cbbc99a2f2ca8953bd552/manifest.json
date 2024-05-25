@@ -1,0 +1,1299 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Genical - Mental Health & Psychologist Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Psychologist",
+            "screenshot": "screenshots\/psychologist.jpg",
+            "source": "templates\/psychologist.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/psychologist\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appointment",
+            "screenshot": "screenshots\/appointment.jpg",
+            "source": "templates\/appointment.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Error",
+            "screenshot": "screenshots\/404-error.jpg",
+            "source": "templates\/404-error.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/404-error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Genical Appointment MetForm",
+            "screenshot": "screenshots\/genical-appointment-metform.jpg",
+            "source": "templates\/genical-appointment-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/genical-appointment-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Genical Appointment MetForm 2",
+            "screenshot": "screenshots\/genical-appointment-metform-2.jpg",
+            "source": "templates\/genical-appointment-metform-2.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/genical-appointment-metform-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Genical Question MetForm",
+            "screenshot": "screenshots\/genical-question-metform.jpg",
+            "source": "templates\/genical-question-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/genical-question-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Genical Contact MetForm",
+            "screenshot": "screenshots\/genical-contact-metform.jpg",
+            "source": "templates\/genical-contact-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/756\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Genical Header",
+            "screenshot": "screenshots\/genical-header.jpg",
+            "source": "templates\/genical-header.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/genical-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Genical Footer",
+            "screenshot": "screenshots\/genical-footer.jpg",
+            "source": "templates\/genical-footer.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/genical\/template-kit\/genical-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "RomethemeKit For Elementor",
+            "version": "1.2.0",
+            "file": "rometheme-for-elementor\/RomeTheme.php",
+            "author": "Rometheme"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.11.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "close-up-of-group-therapy-attenders-holding-hands-DGUQWYG.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/close-up-of-group-therapy-attenders-holding-hands-DGUQWYG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 291050,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "helping-couples-young-married-couple-listening-to-5U7VFSC.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/helping-couples-young-married-couple-listening-to-5U7VFSC-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 307749,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "smiling-multiethnic-spouses-holding-hands-reconcil-WNR2SEC.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/smiling-multiethnic-spouses-holding-hands-reconcil-WNR2SEC-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 300160,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Icon-5.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7289,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Icon-2.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7542,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Icon-4.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6337,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "psychiatrists-doctor-provide-mental-health-counsel-74S9LDRa.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/psychiatrists-doctor-provide-mental-health-counsel-74S9LDRa.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 304616,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "support-holding-hands-and-business-people-in-team-39A9SMC.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/support-holding-hands-and-business-people-in-team-39A9SMC-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 303771,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "community-trust-and-business-people-support-and-ca-YGM4YR8.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/community-trust-and-business-people-support-and-ca-YGM4YR8-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 306683,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Service-1.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Service-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6819,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Service-2.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Service-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6377,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Service-3.1.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Service-3.1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6444,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Service-4.1.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Service-4.1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4662,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Service-5.3.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Service-5.3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6243,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Service-6.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Service-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5238,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "positive-african-american-couple-hugging-after-rec-PFLEMJZ.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/positive-african-american-couple-hugging-after-rec-PFLEMJZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 305282,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "support-prayer-and-trust-with-people-holding-hands-BRKJAD3.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/support-prayer-and-trust-with-people-holding-hands-BRKJAD3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 306679,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "portrait-of-handsome-young-arab-man-smiling-and-lo-XHBVC4Z.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/portrait-of-handsome-young-arab-man-smiling-and-lo-XHBVC4Z.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 226924,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "germany-berlin-woman-smiling-portrait-7TYUV5H.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/germany-berlin-woman-smiling-portrait-7TYUV5H.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 168614,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "business-man-city-and-smile-portrait-of-an-employe-7358DW3.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/business-man-city-and-smile-portrait-of-an-employe-7358DW3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 209536,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "depression-psychological-help-mental-health-stress-BP6DPN5.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/depression-psychological-help-mental-health-stress-BP6DPN5-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 298958,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Partner-5.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Partner-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 5878,
+            "dimensions": [
+                300,
+                111
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Partner-2.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Partner-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 8457,
+            "dimensions": [
+                300,
+                132
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Partner-3.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Partner-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 7925,
+            "dimensions": [
+                300,
+                122
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Partner-4.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Partner-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 7440,
+            "dimensions": [
+                300,
+                137
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Partner-6.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Partner-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 6658,
+            "dimensions": [
+                300,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Partner-1.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Partner-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 4451,
+            "dimensions": [
+                300,
+                75
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "mental-health-support-holding-hands-and-group-coun-3QDQQDVa.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/mental-health-support-holding-hands-and-group-coun-3QDQQDVa-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 299878,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "portrait-of-female-psychologist-with-clipboard-sit-TREKR2T.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/portrait-of-female-psychologist-with-clipboard-sit-TREKR2T.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 306850,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "professional-psychologist-DMGX85A.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/professional-psychologist-DMGX85A.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 295239,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "at-the-psychologist-R7BQS5Z.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/at-the-psychologist-R7BQS5Z.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 304586,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "psychologist-listens-attentively-to-a-client-in-hi-HAXA734.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/psychologist-listens-attentively-to-a-client-in-hi-HAXA734.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 305749,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "professional-psychologist-4Y9CSZM.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/professional-psychologist-4Y9CSZM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 300754,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "young-woman-sitting-at-therapy-DPYUXP4.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/young-woman-sitting-at-therapy-DPYUXP4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 303146,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "psychologist-in-office-WAUZF95.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/psychologist-in-office-WAUZF95.jpg",
+            "templates": [
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 299642,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "counselor-in-office-TMCLRK6.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/counselor-in-office-TMCLRK6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/psychologist.json",
+                    "name": "Psychologist"
+                }
+            ],
+            "filesize": 296427,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "psychologist-listening-to-female-patient-talking-w-ZJ3DARW.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/psychologist-listening-to-female-patient-talking-w-ZJ3DARW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 305187,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "shot-of-a-young-therapist-speaking-to-a-couple-dur-HQWQAGB.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/shot-of-a-young-therapist-speaking-to-a-couple-dur-HQWQAGB-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 304975,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "young-african-american-couple-handshaking-with-mar-JSUNMR8.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/young-african-american-couple-handshaking-with-mar-JSUNMR8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 307409,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "happy-couple-at-successful-therapy-session-with-fa-W9KXY7U.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/happy-couple-at-successful-therapy-session-with-fa-W9KXY7U-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 299527,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "psychologist-in-the-medical-office-listening-caref-LHATPWW.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/psychologist-in-the-medical-office-listening-caref-LHATPWW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 297141,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "psychology-mental-health-patient-in-session-with-p-AEVVPNT.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/psychology-mental-health-patient-in-session-with-p-AEVVPNT-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 Error"
+                }
+            ],
+            "filesize": 300526,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FZVXBCRJ46"
+        },
+        {
+            "filename": "Genical-Logo-2.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/genical\/wp-content\/uploads\/sites\/18\/2023\/02\/Genical-Logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/genical-header.json",
+                    "name": "Genical Header"
+                },
+                {
+                    "source": "templates\/genical-footer.json",
+                    "name": "Genical Footer"
+                }
+            ],
+            "filesize": 10653,
+            "dimensions": [
+                600,
+                175
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

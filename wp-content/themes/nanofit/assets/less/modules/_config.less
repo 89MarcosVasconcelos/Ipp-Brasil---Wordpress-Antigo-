@@ -1,0 +1,99 @@
+/*============================================================ 
+                        CSS OVERVIEWS
+                1. GENERAL
+                2. LAYOUT
+                3. HEADER
+                    3.1. Topbar
+                    3.2. Header
+                    3.3. Header Sticky
+                    3.4. Off-Canvas
+                          3.4.1. Off-Canvas Left/For Sliding Widget
+                          3.4.2. Off-Canvas Right/For Mobile Menu
+                    3.5. Extras Menu    
+                4. CONTENT
+                	4.1. Content Header/Title Bar
+                    4.2. Content Body/Gutenberg
+                5. WIDGET
+                    5.1. Archives/Categories
+                    5.2. Calendar
+                    5.3. Recent Comments
+                    5.4. Recent Posts
+                    5.5. RSS
+                    5.6. Search
+                    5.7. Tag
+                    5.8. Menu
+                    5.8. Other
+                6. FOOTER
+                    6.1. Content Bottom
+                    6.2. Footer Widget
+                    6.3. Copyright
+                7. OTHER
+                	7.1. Comments
+                	7.2. Page Navigation
+                	7.3. Page Search/404
+                    7.4. Page Author
+                    7.5. Social
+                    7.6. Gallery
+                8. BLOG
+                    8.1. Blog Grid
+                    8.2. Blog List
+                    8.3. Blog Single
+                    8.4. Blog Related
+                9. WOOCOMMERCE
+                    9.1. Widget
+                    9.2. Off-Canvas/Filter
+                    9.3. Shop Page
+                    9.4. Product Single
+                    9.5. Cart
+                    9.6. Checkout
+                    9.7. Other
+               10. ELEMENTS
+               11. RTL
+               12. PROJECT
+============================================================*/
+
+
+@grid-columns: 12;
+@grid-gutter: 30px;
+@primary: #eb4438;
+@accent: #2e4c5f;
+@light: #fdeceb;
+@grey: #B9BBBC;
+@dark: #2e4c5f;
+@green: #12e09b;
+@blue: #1dc2ef;
+@red: #DA291C;
+@orange: #fe613f;
+@yellow: #fed700;
+@pink: #dd154d;
+@purple: #050934;
+@white: #FFF;
+@black: #000;
+
+.rounded (@radius: 5px) {
+	border-radius: @radius;
+}
+.transition (@transition: all 0.2s ease-in-out 0s)  {
+	transition: @transition;
+}
+.box-shadow(@arguments:0 1px 10px rgba(0,0,0,0.1)) {
+    box-shadow: @arguments;
+}
+.box-shadow2(@arguments:0 5px 45px rgba(0,0,0,0.1)) {
+    box-shadow: @arguments;
+}
+.box-shadow3(@arguments:0 2px 4px rgba(0,0,0,0.075)) {
+    box-shadow: @arguments;
+}
+.box-shadow4(@arguments:0 2px 4px rgba(0,0,0,0.15)) {
+    box-shadow: 0 2px 2px rgba(0,0,0,0.06), 0 4px 4px rgba(0,0,0,0.06), 0 8px 8px rgba(0,0,0,0.06), 0 16px 16px rgba(0,0,0,0.06), 0 32px 32px rgba(0,0,0,0.06);
+}
+.opacity(@opacity: 0.5) {
+	opacity: @opacity;
+}
+.delay (@delay: 60ms) {
+	transition-delay: @delay;
+}
+.duration (@duration: 250ms) {
+	transition-duration: @duration;
+}

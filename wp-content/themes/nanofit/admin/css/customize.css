@@ -1,0 +1,55 @@
+#customize-info,#accordion-section-themes {
+	display: none !important;
+}
+#customize-theme-controls .accordion-section:not(.customize-info) {
+	border: none !important;
+}
+#customize-theme-controls .accordion-section .accordion-section-title {
+	margin: 5px 15px;
+	border-radius: 5px;
+	box-shadow: 0 1px 3px rgba(0,0,0,.1);
+}
+#customize-controls .panel-meta.customize-info .accordion-section-title {
+	border-radius: 0;
+	margin: 0 0 0 48px;
+	box-shadow: none;
+}
+#customize-controls .accordion-heading-inner .accordion-heading-title {
+	font-size: 11px;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	color: #999;
+}
+
+.options-control-title {
+  font-weight: bold;
+  border-top: 1px solid rgba(0,0,0,.1);
+  margin: 15px 0 0 0;
+  padding: 20px 0 5px 0;
+}
+.accordion-heading-inner {
+  margin: 30px 30px 15px 32px;
+}
+.accordion-heading-inner .accordion-heading-title {
+  text-transform: uppercase;
+}
+.accordion-heading-desc {
+  font-size: 13px;
+}
+.options-control-desc {
+  margin-bottom: 10px;
+  font-size: 11px;
+  line-height: 1.6;
+  color: #666;
+}
+
+.wp-full-overlay-sidebar {
+	transition: all 0.2s ease-in-out 0s;
+}
+.section-open .wp-full-overlay-sidebar {
+	background: #fff;
+}
+
+.customize-section-description-container + li .options-control-title {
+	border: none;
+}

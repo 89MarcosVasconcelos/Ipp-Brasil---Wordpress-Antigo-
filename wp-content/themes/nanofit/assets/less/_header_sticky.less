@@ -1,0 +1,40 @@
+/* ============================================================ 
+    3.3. Header Sticky
+=============================================================*/
+.admin-bar {
+	.site-header-sticky {
+		top: 32px;
+		@media only screen and (max-width: 782px) {
+			top: 46px;
+		}
+		@media only screen and (max-width: 600px) {
+			top: 0;
+		}
+	}
+}
+.site-header-sticky {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 9;
+	transform: translateY(-100%);
+	-webkit-backdrop-filter: blur(6px);
+			backdrop-filter: blur(6px);
+	.transition(0.5s cubic-bezier(0.25, 0.8, 0.25, 1) 0s);
+	&.header-style1 {
+		background: @white;
+		&:after {
+			display: none;
+		}
+	}
+}
+.site {
+	&.scrolling_up {
+		.site-header-sticky {
+			&.active {
+				transform: translateY(0);
+			}
+		}
+	}
+}
